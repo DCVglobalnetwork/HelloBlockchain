@@ -14,12 +14,12 @@ contract HelloBlockchainTest is Test {
 
     function setUp() public {
         // Deploy a new HelloBlockchain contract with an initial greeting
-        helloBlockchain = new HelloBlockchain("Hello,Blockchain");
+        helloBlockchain = new HelloBlockchain("HelloBlockchain");
     }
     // Test to check if the initial greetings is set correctly
 
     function testInitialGreetings() public view {
-        // Assert that the greeting returned by getGreetings() is "Hello, Blockchain!"
+        // Assert that the greeting returned by getGreetings() is "HelloBlockchain!"
         assertEq(helloBlockchain.getGreetings(), "HelloBlockchain");
     }
 
