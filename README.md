@@ -2,6 +2,9 @@
 
 Welcome to the **HelloBlockchain** project! This repository contains a simple Ethereum smart contract, along with scripts for deployment, testing, and interaction using the [Foundry](https://getfoundry.sh/) toolkit.
 
+![image](https://github.com/user-attachments/assets/df8d0747-0a38-4338-a80c-3e41683f18da)
+
+
 ## Table of Contents
 
 - [Project Overview](#project-overview)
