@@ -94,7 +94,7 @@ You can interact with these functions using tools like cast or directly through 
 This project is licensed under the MIT License. 
 
 
-**Detailed Walkthrough on Medium**
+# Detailed Walkthrough on Medium
 If you're interested in a step-by-step guide on how this project was built, including explanations of the code, testing, and deployment process, check out the detailed walkthrough on Medium:
 
 👉 [Read the HelloBlockchain Walkthrough on Medium](https://medium.com/@maria.magdalena.makeup/guide-to-creating-testing-and-deploying-a-smart-contract-with-foundry-helloblockchain-8c9eeedf780e)
