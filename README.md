@@ -90,10 +90,17 @@ function setGreetings(string memory _greetings) public
 ```
 You can interact with these functions using tools like cast or directly through your preferred Ethereum interface.
 
-License
+## License
 This project is licensed under the MIT License. 
 
 
+**Detailed Walkthrough on Medium**
+If you're interested in a step-by-step guide on how this project was built, including explanations of the code, testing, and deployment process, check out the detailed walkthrough on Medium:
 
+👉 [Read the HelloBlockchain Walkthrough on Medium](https://medium.com/@maria.magdalena.makeup/guide-to-creating-testing-and-deploying-a-smart-contract-with-foundry-helloblockchain-8c9eeedf780e)
+
+![image](https://github.com/user-attachments/assets/44f9ccda-166f-4ce2-b6a7-befbd45d16da)
+
+This article will provide you with a deeper understanding of the project and help you get started with your own blockchain development journey.
 
 
